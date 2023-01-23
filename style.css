@@ -1,5 +1,6 @@
 body {
-    color: white;
+    color: blue;
+    background-color: #999;
     background-image: url("download.jpg");
     background-repeat: no-repeat;
     background-size: cover;
